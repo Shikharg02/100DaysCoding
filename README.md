@@ -1,13 +1,13 @@
 # 100DaysCoding
 
-73. Set Matrix Zeroes--
+1. Set Matrix Zeroes--
               https://leetcode.com/problems/set-matrix-zeroes/
     
-118. Pascal's Triangle--
+2. Pascal's Triangle--
               https://leetcode.com/problems/pascals-triangle/
      
-2696. Minimum String Length After Removing Substrings--
+3. Minimum String Length After Removing Substrings--
               https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
 
-2697. Lexicographically Smallest Palindrome--
+4. Lexicographically Smallest Palindrome--
               https://leetcode.com/contest/weekly-contest-346/problems/lexicographically-smallest-palindrome
