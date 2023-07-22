@@ -2,6 +2,9 @@
 
 10. (48) Rotate Image--    https://leetcode.com/problems/rotate-image/
 
+11. (673) Number of Longest Increasing Subsequence--    https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+
+
 (118) Pascal's Triangle--   https://leetcode.com/problems/pascals-triangle/
 
 (2696) Minimum String Length After Removing Substrings--    https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
