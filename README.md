@@ -6,6 +6,12 @@
 
 (118) Pascal's Triangle--   https://leetcode.com/problems/pascals-triangle/
 
+(56) Merge Intervals--    https://leetcode.com/problems/merge-intervals/
+
+(88) Merge Sorted Array--    https://leetcode.com/problems/merge-sorted-array/description/
+
+(287) Find the Duplicate Number--    https://leetcode.com/problems/find-the-duplicate-number/description/
+
 (2696) Minimum String Length After Removing Substrings--    https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
 
 (2697) Lexicographically Smallest Palindrome--    https://leetcode.com/contest/weekly-contest-346/problems/lexicographically-smallest-palindrome
