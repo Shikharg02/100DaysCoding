@@ -12,6 +12,10 @@
 
 (287) Find the Duplicate Number--    https://leetcode.com/problems/find-the-duplicate-number/description/
 
+Missing and repeating numbers--    https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/
+
+Count Inversions in an array--    https://takeuforward.org/data-structure/count-inversions-in-an-array/
+
 (2696) Minimum String Length After Removing Substrings--    https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
 
 (2697) Lexicographically Smallest Palindrome--    https://leetcode.com/contest/weekly-contest-346/problems/lexicographically-smallest-palindrome
