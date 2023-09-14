@@ -16,6 +16,14 @@ Missing and repeating numbers--    https://takeuforward.org/data-structure/find-
 
 Count Inversions in an array--    https://takeuforward.org/data-structure/count-inversions-in-an-array/
 
+(74) Search a 2D Matrix--    https://leetcode.com/problems/search-a-2d-matrix/
+
+(2828) Check if a String Is an Acronym of Words--    https://leetcode.com/contest/weekly-contest-359/problems/check-if-a-string-is-an-acronym-of-words/
+
+(2839) Check if Strings Can be Made Equal With Operations I--    https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/
+
+(2843) Count Symmetric Integers--    https://leetcode.com/contest/weekly-contest-361/problems/count-symmetric-integers/
+
 (2696) Minimum String Length After Removing Substrings--    https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
 
 (2697) Lexicographically Smallest Palindrome--    https://leetcode.com/contest/weekly-contest-346/problems/lexicographically-smallest-palindrome
