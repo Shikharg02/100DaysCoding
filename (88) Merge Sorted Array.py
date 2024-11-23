@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 18 10:36:55 2023
-
-@author: Shikhar Gupta
-"""
-
 class Solution(object):
     def merge(self, nums1, m, nums2, n):
         """
@@ -15,6 +8,5 @@ class Solution(object):
         :rtype: None Do not return anything, modify nums1 in-place instead.
         """
         for i in range(len(nums2)):
-            nums1[m+i]=nums2[i]
+            nums1[m + i] = nums2[i]
         return nums1.sort()
-                

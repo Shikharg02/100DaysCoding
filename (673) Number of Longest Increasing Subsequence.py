@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul 22 21:36:35 2023
-
-@author: Shikhar Gupta
-"""
-
 class Solution(object):
     def findNumberOfLIS(self, nums):
         """
@@ -34,7 +27,8 @@ class Solution(object):
                 lo = lis[i]
 
         return lis.count(lo)
-    
-s=Solution()
-nums = [2,2,2,2,2]
+
+
+s = Solution()
+nums = [2, 2, 2, 2, 2]
 print(s.findNumberOfLIS(nums))
